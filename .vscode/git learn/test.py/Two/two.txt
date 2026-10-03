@@ -1,1 +1,1 @@
-this is day two of git push 
+this a day two of git push.
